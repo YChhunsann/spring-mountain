@@ -13,7 +13,7 @@ A one line summary of what each file and directory is for:
 ```js
 /
 ├── public/ // Files publicly available to the browser
-│   ├── fonts/ // The default fonts for Astro Sphere
+│   ├── fonts/ // The default fonts  Astforro Sphere
 │   │   └── atkinson-bold.woff  // default font weight 700
 │   │   └── atkinson-regular.woff // default font weight 400
 │   ├── js/ // Javascript that will be imported into <head>
