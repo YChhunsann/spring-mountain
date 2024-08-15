@@ -4,7 +4,7 @@ summary: "Smart Vacuunm cleaner is a robot that collect the trash (base on the s
 date: "Dec 7 2023"
 draft: false
 tags:
-- Arduino IDE
+- Arduino
 demoUrl: https://www.youtube.com/watch?v=eTB5DQml7v0
 repoUrl: https://github.com/YChhunsann/Smart-Vacuum-Cleaner
 ---
