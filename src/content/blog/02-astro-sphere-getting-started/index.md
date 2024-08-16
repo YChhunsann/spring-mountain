@@ -18,7 +18,7 @@ configuring the site and make it personal.
 //astro.config.mjs
 
 export default defineConfig({
-  site: "https://astro-sphere.vercel.app", // your domain here
+  site: "https://phnombaytaang.netlify.app/", // your domain here
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 })
 ```
@@ -31,7 +31,7 @@ export default defineConfig({
 export const SITE: Site = {
   TITLE: "Astro Sphere",
   DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
-  AUTHOR: "Mark Horn",
+  AUTHOR: "Yeab Chhunsann",
 }
 ```
 
