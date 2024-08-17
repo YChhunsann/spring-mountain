@@ -7,8 +7,8 @@ tags:
 - Python
 - Pygame
 - Tensorflow
-- Reinforcement Learning
-- Deep Reinforcement Learning
+- RL
+- DRL
 ---
 
 For the process I will tell y'all later...
