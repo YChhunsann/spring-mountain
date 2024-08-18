@@ -8,6 +8,8 @@ tags:
 ---
 ### Here Is My New Logo
 
+The quality of it too low...
+
 ![blog placeholder](/my-open-graph.png)
 
 ### And Also This One
