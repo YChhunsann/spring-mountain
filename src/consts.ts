@@ -2,8 +2,8 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "Phnom Baytɑɑng",
-  DESCRIPTION: "Welcome to Phnom Baytaang, a portfolio and blog for designers and developers.",
+  TITLE: "Spring Mountain",
+  DESCRIPTION: "Welcome to Spring Mountain, a portfolio and blog for designers and developers.",
   AUTHOR: "Yeab Chhunsann",
 }
 
