@@ -1,4 +1,4 @@
-![Astro Sphere Lighthouse Score](spring-mountain)
+![Astro Sphere Lighthouse Score](spring-mountain.png)
 
 Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
 
